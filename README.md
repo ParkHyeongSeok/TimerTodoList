@@ -14,7 +14,6 @@
 |:-:|:-:|:-:|
 |![s1](https://user-images.githubusercontent.com/77890228/145695699-9cd563fb-4b5d-49e7-afcb-dfea31b25308.png)|![s2](https://user-images.githubusercontent.com/77890228/145695750-2ec3bc72-bb8b-4c16-91ed-97b38e2f7914.png)|![s3](https://user-images.githubusercontent.com/77890228/145695796-6309568c-05bc-4b06-b5af-569837f75385.png)|
 |일정 수정|타이머 화면|타이머|
-|:-:|:-:|:-:|
 |![s4](https://user-images.githubusercontent.com/77890228/145695863-3c574d99-3f12-49b5-86c8-9767e17baa80.png)|![s5](https://user-images.githubusercontent.com/77890228/145695900-df95e220-f83e-4960-b9c5-8f63ede404cd.png)|![s6](https://user-images.githubusercontent.com/77890228/145695893-d32cb8c1-2a8b-47f0-ab0e-49ce742df01f.png)|
 
 
