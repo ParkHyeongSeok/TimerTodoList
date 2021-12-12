@@ -11,7 +11,7 @@
 
 ## 실행화면
 |메인 화면|할 일 추가|일정 관리|
-|일정 수정|타이머 화면|타이머 |
+|일정 수정|타이머 화면|타이머|
 |:-:|:-:|:-:|
 |:-:|:-:|:-:|
 |![s1](https://user-images.githubusercontent.com/77890228/145695699-9cd563fb-4b5d-49e7-afcb-dfea31b25308.png)|![s2](https://user-images.githubusercontent.com/77890228/145695750-2ec3bc72-bb8b-4c16-91ed-97b38e2f7914.png)|![s3](https://user-images.githubusercontent.com/77890228/145695796-6309568c-05bc-4b06-b5af-569837f75385.png)|
