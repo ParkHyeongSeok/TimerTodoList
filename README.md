@@ -16,5 +16,8 @@
 |일정 수정|타이머 화면|타이머 작동|
 |![s4](https://user-images.githubusercontent.com/77890228/145695863-3c574d99-3f12-49b5-86c8-9767e17baa80.png)|![s5](https://user-images.githubusercontent.com/77890228/145695900-df95e220-f83e-4960-b9c5-8f63ede404cd.png)|![s6](https://user-images.githubusercontent.com/77890228/145695893-d32cb8c1-2a8b-47f0-ab0e-49ce742df01f.png)|
 
+## 실행 영상
+https://user-images.githubusercontent.com/77890228/148232528-c6dc0d12-a270-4f63-a85b-10941256bcdf.mov
+
 
 
